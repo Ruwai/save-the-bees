@@ -1,0 +1,38 @@
+51,"t","Agricultural Chemical Usage 2007 Restricted Use Summary: Released May 21, 2008, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, U.S. Department of Agriculture."
+51,"t","All Cotton:  Agricultural Chemical Applications,"
+51,"t","Restricted Use Pesticides,"
+51,"t","Program States, 2007 1/"
+51,"h","","","","","",""
+51,"h","Restricted Use","Area","Appli-","Rate per","Rate per","Total"
+51,"h","Pesticide","Applied","cations","Application","Crop Year","Applied"
+51,"h","","","","","",""
+51,"u","","Percent","Number","Pounds per Acre","Pounds per Acre","1,000 lbs."
+51,"d","",,,,,
+51,"d","Insecticides",,,,,
+51,"d","  Abamectin",3,1.1,0.007,0.007,2
+51,"d","  Aldicarb",18,1.0,0.666,0.678,1241
+51,"d","  Bifenthrin",3,1.6,0.070,0.111,36
+51,"d","  Chlorpyrifos","*",1.2,0.593,0.741,18
+51,"d","  Cyfluthrin",8,1.3,0.034,0.044,36
+51,"d","  Cypermethrin",7,1.3,0.058,0.073,52
+51,"d","  Dicrotophos",21,1.7,0.325,0.565,1242
+51,"d","  Esfenvalerate",2,1.2,0.039,0.049,11
+51,"d","  Imidacloprid","*",1.4,0.058,0.081,2
+51,"d","  Lambda-cyhalothrin",5,1.5,0.026,0.039,21
+51,"d","  Methamidophos","*",1.0,0.150,0.150,4
+51,"d","  Methyl parathion","*",1.0,0.746,0.746,31
+51,"d","  Oxamyl",3,1.4,0.328,0.456,134
+51,"d","  Permethrin","*",1.0,0.040,0.040,1
+51,"d","  Phorate",1,1.0,0.762,0.762,45
+51,"d","  Zeta-cypermethrin",3,1.4,0.021,0.029,9
+51,"d","",,,,,
+51,"d","Fungicides",,,,,
+51,"d","  Etridiazole","*",1.0,0.135,0.141,7
+51,"d","  PCNB","*",1.0,0.538,0.562,28
+51,"d","",,,,,
+51,"d","Other Chemicals",,,,,
+51,"d","  Paraquat",19,1.1,0.372,0.397,767
+51,"c",""
+51,"f","*   Area applied is less than 0.5 percent."
+51,"f","1/  Planted  acreage in 2007 for the 11 Program States was 10.2 million acres."
+51,"f","^ ^  States included are AL, AR, CA, GA, LA, MS, MO, NC, SC, TN, and TX."

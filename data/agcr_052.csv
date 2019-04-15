@@ -1,0 +1,36 @@
+52,"t","Agricultural Chemical Usage 2007 Restricted Use Summary: Released May 21, 2008, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, U.S. Department of Agriculture."
+52,"t","Apples:  Agricultural Chemical Applications,"
+52,"t","Restricted Use Pesticides,"
+52,"t","Program States, 2007 1/"
+52,"h","","","","","",""
+52,"h","Restricted Use","Area","Appli-","Rate per","Rate per","Total"
+52,"h","Pesticide","Applied","cations","Application","Crop Year","Applied"
+52,"h","","","","","",""
+52,"u","","Percent","Number","Pounds per Acre","Pounds per Acre","1,000 lbs."
+52,"d","",,,,,
+52,"d","Herbicides",,,,,
+52,"d","  Paraquat",12,1.2,1.194,1.440,49.7
+52,"d","",,,,,
+52,"d","Insecticides",,,,,
+52,"d","  Abamectin",2,1.2,0.010,0.012,0.1
+52,"d","  Azinphos-methyl",62,2.5,0.832,2.045,363.3
+52,"d","  Beta-cyfluthrin","*",1.3,0.018,0.023,"( 2/ )"
+52,"d","  Chlorpyrifos",53,1.1,1.574,1.671,254.1
+52,"d","  Cyfluthrin",1,1.1,0.032,0.034,0.1
+52,"d","  Diazinon",8,1.4,1.504,2.078,50.1
+52,"d","  Emamectin benzoate",16,1.2,0.013,0.016,0.7
+52,"d","  Esfenvalerate",10,1.5,0.044,0.064,1.9
+52,"d","  Gamma-cyhalothrin",5,2.0,0.015,0.030,0.4
+52,"d","  Lambda-cyhalothrin",10,1.5,0.031,0.048,1.4
+52,"d","  Methomyl",4,1.8,0.526,0.943,9.5
+52,"d","  Oxamyl","*",1.3,0.211,0.269,0.2
+52,"d","  Permethrin",1,1.4,0.170,0.242,1.0
+52,"d","",,,,,
+52,"d","Other Chemicals",,,,,
+52,"d","  Zinc phosphide",2,1.4,0.117,0.159,1.0
+52,"c",""
+52,"f","*   Area applied is less than 0.5 percent."
+52,"f","1/  Bearing  acreage in 2007 for the 7 Program States was 288,000 acres."
+52,"f","^ ^  States included are CA, MI, NY, NC, OR, PA, and WA."
+52,"f","2/  Total applied is less than 50 lbs."
+52,"f","2/  Total applied is less than 50 lbs."

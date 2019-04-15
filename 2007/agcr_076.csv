@@ -1,0 +1,33 @@
+76,"t","Agricultural Chemical Usage 2006 Restricted Use Summary: Released October 3, 2007, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, U.S. Department of Agriculture."
+76,"t","Squash:  Agricultural Chemical Applications,"
+76,"t","Restricted Use Pesticides,"
+76,"t","Program States, 2006 1/"
+76,"h","","","","","",""
+76,"h","Restricted Use","Area","Appli-","Rate per","Rate per","Total"
+76,"h","Pesticide","Applied","cations","Application","Crop Year","Applied"
+76,"h","","","","","",""
+76,"u","","Percent","Number","Pounds per Acre","Pounds per Acre","1,000 lbs"
+76,"d","",,,,,
+76,"d","Herbicides",,,,,
+76,"d","  Paraquat",1,1.0,0.781,0.782,0.5
+76,"d","",,,,,
+76,"d","Insecticides",,,,,
+76,"d","  Bifenthrin",15,2.7,0.068,0.181,1.4
+76,"d","  Carbofuran",3,1.0,0.436,0.441,0.8
+76,"d","  Cyfluthrin","*",3.0,0.039,0.116,"( 2/ )"
+76,"d","  Diazinon","*",1.1,0.683,0.753,0.1
+76,"d","  Esfenvalerate",25,3.1,0.039,0.122,1.6
+76,"d","  Lambda-cyhalothrin",1,1.8,0.023,0.043,"( 2/ )"
+76,"d","  Methomyl",3,9.0,0.318,2.856,4.5
+76,"d","  Methyl bromide",3,1.0,156.371,156.371,257.9
+76,"d","  Permethrin",10,2.5,0.153,0.384,2.0
+76,"d","  Zeta-cypermethrin",1,7.7,0.028,0.213,0.2
+76,"d","",,,,,
+76,"d","Other Chemicals",,,,,
+76,"d","  Chloropicrin",1,1.0,59.438,59.438,21.0
+76,"d","  Dichloropropene",10,1.0,79.666,79.666,433.1
+76,"c",""
+76,"f","*   Area applied is less than 0.5 percent."
+76,"f","1/  Planted  acreage in 2006 for the 7 Program States was 52,200 acres."
+76,"f","^ ^  States included are CA, FL, GA, MI, NJ, NY, and NC."
+76,"f","2/  Total applied is less than 50 lbs."

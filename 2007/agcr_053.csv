@@ -1,0 +1,29 @@
+53,"t","Agricultural Chemical Usage 2006 Restricted Use Summary: Released October 3, 2007, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, U.S. Department of Agriculture."
+53,"t","Soybeans:  Agricultural Chemical Applications,"
+53,"t","Restricted Use Pesticides,"
+53,"t","Program States, 2006 1/"
+53,"h","","","","","",""
+53,"h","Restricted Use","Area","Appli-","Rate per","Rate per","Total"
+53,"h","Pesticide","Applied","cations","Application","Crop Year","Applied"
+53,"h","","","","","",""
+53,"u","","Percent","Number","Pounds per Acre","Pounds per Acre","1,000 lbs"
+53,"d","",,,,,
+53,"d","Herbicides",,,,,
+53,"d","  Alachlor","*",1.0,1.931,1.931,485
+53,"d","  Paraquat",1,1.0,0.492,0.511,335
+53,"d","",,,,,
+53,"d","Insecticides",,,,,
+53,"d","  Chlorpyrifos",5,1.1,0.454,0.480,1663
+53,"d","  Cyfluthrin","*",1.1,0.028,0.030,10
+53,"d","  Diflubenzuron","*",1.7,0.037,0.062,10
+53,"d","  Esfenvalerate",3,1.1,0.035,0.037,70
+53,"d","  Gamma-cyhalothrin","*",1.0,0.011,0.011,3
+53,"d","  Lambda-cyhalothrin",6,1.1,0.020,0.022,97
+53,"d","  Methyl parathion","*",1.1,0.529,0.565,66
+53,"d","  Permethrin","*",1.0,0.065,0.065,12
+53,"d","  Thiodicarb","*",1.0,0.320,0.320,39
+53,"d","  Zeta-cypermethrin",1,1.0,0.022,0.022,14
+53,"c",""
+53,"f","*   Area applied is less than 0.5 percent."
+53,"f","1/  Planted  acreage in 2006 for the 19 Program States was 72.9 million acres."
+53,"f","^ ^  States included are AR, IL, IN, IA, KS, KY, LA, MI, MN, MS, MO, NE, NC, ND, OH, SD, TN, VA, and WI."

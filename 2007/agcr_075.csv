@@ -1,0 +1,20 @@
+75,"t","Agricultural Chemical Usage 2006 Restricted Use Summary: Released October 3, 2007, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, U.S. Department of Agriculture."
+75,"t","Spinach, Fresh:  Agricultural Chemical Applications,"
+75,"t","Restricted Use Pesticides,"
+75,"t","Program States, 2006 1/"
+75,"h","","","","","",""
+75,"h","Restricted Use","Area","Appli-","Rate per","Rate per","Total"
+75,"h","Pesticide","Applied","cations","Application","Crop Year","Applied"
+75,"h","","","","","",""
+75,"u","","Percent","Number","Pounds per Acre","Pounds per Acre","1,000 lbs"
+75,"d","",,,,,
+75,"d","Insecticides",,,,,
+75,"d","  Abamectin",9,1.0,0.010,0.010,"( 2/ )"
+75,"d","  Diazinon",26,1.1,2.075,2.251,27.3
+75,"d","  Methomyl",17,1.0,0.679,0.711,5.6
+75,"d","  Permethrin",46,1.4,0.169,0.242,5.2
+75,"d","  Zeta-cypermethrin",39,1.2,0.047,0.056,1.0
+75,"c",""
+75,"f","1/  Planted  acreage in 2006 for the 3 Program States was 46,400 acres."
+75,"f","^ ^  States included are AZ, CA, and TX."
+75,"f","2/  Total applied is less than 50 lbs."

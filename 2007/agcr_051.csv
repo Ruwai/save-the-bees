@@ -1,0 +1,16 @@
+51,"t","Agricultural Chemical Usage 2006 Restricted Use Summary: Released October 3, 2007, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, U.S. Department of Agriculture."
+51,"t","Other Spring Wheat:  Agricultural Chemical Applications,"
+51,"t","Restricted Use Pesticides,"
+51,"t","Program States, 2006 1/"
+51,"h","","","","","",""
+51,"h","Restricted Use","Area","Appli-","Rate per","Rate per","Total"
+51,"h","Pesticide","Applied","cations","Application","Crop Year","Applied"
+51,"h","","","","","",""
+51,"u","","Percent","Number","Pounds per Acre","Pounds per Acre","1,000 lbs"
+51,"d","",,,,,
+51,"d","Insecticides",,,,,
+51,"d","  Lambda-cyhalothrin","*",1.0,0.023,0.023,1
+51,"c",""
+51,"f","*   Area applied is less than 0.5 percent."
+51,"f","1/  Planted  acreage in 2006 for the 6 Program States was 14.7 million acres."
+51,"f","^ ^  States included are ID, MN, MT, ND, SD, and WA."

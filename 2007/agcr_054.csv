@@ -1,0 +1,21 @@
+54,"t","Agricultural Chemical Usage 2006 Restricted Use Summary: Released October 3, 2007, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, U.S. Department of Agriculture."
+54,"t","Winter Wheat:  Agricultural Chemical Applications,"
+54,"t","Restricted Use Pesticides,"
+54,"t","Program States, 2006 1/"
+54,"h","","","","","",""
+54,"h","Restricted Use","Area","Appli-","Rate per","Rate per","Total"
+54,"h","Pesticide","Applied","cations","Application","Crop Year","Applied"
+54,"h","","","","","",""
+54,"u","","Percent","Number","Pounds per Acre","Pounds per Acre","1,000 lbs"
+54,"d","",,,,,
+54,"d","Herbicides",,,,,
+54,"d","  Atrazine","*",1.0,0.676,0.676,55
+54,"d","",,,,,
+54,"d","Insecticides",,,,,
+54,"d","  Chlorpyrifos",2,1.0,0.380,0.380,204
+54,"d","  Lambda-cyhalothrin","*",1.0,0.017,0.017,2
+54,"d","  Zeta-cypermethrin","*",1.0,0.022,0.022,1
+54,"c",""
+54,"f","*   Area applied is less than 0.5 percent."
+54,"f","1/  Harvested  acreage in 2006 for the 14 Program States was 35.3 million acres."
+54,"f","^ ^  States included are CO, ID, IL, KS, MI, MO, MT, NE, OH, OK, OR, SD, TX, and WA."

@@ -1,0 +1,143 @@
+51,"t","Agricultural Chemical Usage 2007 Restricted Use Summary: Released May 21, 2008, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, U.S. Department of Agriculture."
+51,"t","All Cotton:  Agricultural Chemical Applications,"
+51,"t","Restricted Use Pesticides,"
+51,"t","Program States, 2007 1/"
+51,"h","","","","","",""
+51,"h","Restricted Use","Area","Appli-","Rate per","Rate per","Total"
+51,"h","Pesticide","Applied","cations","Application","Crop Year","Applied"
+51,"h","","","","","",""
+51,"u","","Percent","Number","Pounds per Acre","Pounds per Acre","1,000 lbs."
+51,"d","",,,,,
+51,"d","Insecticides",,,,,
+51,"d","  Abamectin",3,1.1,0.007,0.007,2
+51,"d","  Aldicarb",18,1.0,0.666,0.678,1241
+51,"d","  Bifenthrin",3,1.6,0.070,0.111,36
+51,"d","  Chlorpyrifos","*",1.2,0.593,0.741,18
+51,"d","  Cyfluthrin",8,1.3,0.034,0.044,36
+51,"d","  Cypermethrin",7,1.3,0.058,0.073,52
+51,"d","  Dicrotophos",21,1.7,0.325,0.565,1242
+51,"d","  Esfenvalerate",2,1.2,0.039,0.049,11
+51,"d","  Imidacloprid","*",1.4,0.058,0.081,2
+51,"d","  Lambda-cyhalothrin",5,1.5,0.026,0.039,21
+51,"d","  Methamidophos","*",1.0,0.150,0.150,4
+51,"d","  Methyl parathion","*",1.0,0.746,0.746,31
+51,"d","  Oxamyl",3,1.4,0.328,0.456,134
+51,"d","  Permethrin","*",1.0,0.040,0.040,1
+51,"d","  Phorate",1,1.0,0.762,0.762,45
+51,"d","  Zeta-cypermethrin",3,1.4,0.021,0.029,9
+51,"d","",,,,,
+51,"d","Fungicides",,,,,
+51,"d","  Etridiazole","*",1.0,0.135,0.141,7
+51,"d","  PCNB","*",1.0,0.538,0.562,28
+51,"d","",,,,,
+51,"d","Other Chemicals",,,,,
+51,"d","  Paraquat",19,1.1,0.372,0.397,767
+51,"c",""
+51,"f","*   Area applied is less than 0.5 percent."
+51,"f","1/  Planted  acreage in 2007 for the 11 Program States was 10.2 million acres."
+51,"f","^ ^  States included are AL, AR, CA, GA, LA, MS, MO, NC, SC, TN, and TX."
+52,"t","Agricultural Chemical Usage 2007 Restricted Use Summary: Released May 21, 2008, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, U.S. Department of Agriculture."
+52,"t","Apples:  Agricultural Chemical Applications,"
+52,"t","Restricted Use Pesticides,"
+52,"t","Program States, 2007 1/"
+52,"h","","","","","",""
+52,"h","Restricted Use","Area","Appli-","Rate per","Rate per","Total"
+52,"h","Pesticide","Applied","cations","Application","Crop Year","Applied"
+52,"h","","","","","",""
+52,"u","","Percent","Number","Pounds per Acre","Pounds per Acre","1,000 lbs."
+52,"d","",,,,,
+52,"d","Herbicides",,,,,
+52,"d","  Paraquat",12,1.2,1.194,1.440,49.7
+52,"d","",,,,,
+52,"d","Insecticides",,,,,
+52,"d","  Abamectin",2,1.2,0.010,0.012,0.1
+52,"d","  Azinphos-methyl",62,2.5,0.832,2.045,363.3
+52,"d","  Beta-cyfluthrin","*",1.3,0.018,0.023,"( 2/ )"
+52,"d","  Chlorpyrifos",53,1.1,1.574,1.671,254.1
+52,"d","  Cyfluthrin",1,1.1,0.032,0.034,0.1
+52,"d","  Diazinon",8,1.4,1.504,2.078,50.1
+52,"d","  Emamectin benzoate",16,1.2,0.013,0.016,0.7
+52,"d","  Esfenvalerate",10,1.5,0.044,0.064,1.9
+52,"d","  Gamma-cyhalothrin",5,2.0,0.015,0.030,0.4
+52,"d","  Lambda-cyhalothrin",10,1.5,0.031,0.048,1.4
+52,"d","  Methomyl",4,1.8,0.526,0.943,9.5
+52,"d","  Oxamyl","*",1.3,0.211,0.269,0.2
+52,"d","  Permethrin",1,1.4,0.170,0.242,1.0
+52,"d","",,,,,
+52,"d","Other Chemicals",,,,,
+52,"d","  Zinc phosphide",2,1.4,0.117,0.159,1.0
+52,"c",""
+52,"f","*   Area applied is less than 0.5 percent."
+52,"f","1/  Bearing  acreage in 2007 for the 7 Program States was 288,000 acres."
+52,"f","^ ^  States included are CA, MI, NY, NC, OR, PA, and WA."
+52,"f","2/  Total applied is less than 50 lbs."
+52,"f","2/  Total applied is less than 50 lbs."
+53,"t","Agricultural Chemical Usage 2007 Restricted Use Summary: Released May 21, 2008, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, U.S. Department of Agriculture."
+53,"t","Pesticide Class, Common Names, and Trade Names"
+53,"t","Restricted Use Pesticides, 2007"
+53,"h","","",""
+53,"h","Class","Common Names","Trade Names"
+53,"h","","",""
+53,"d","I","Abamectin","Abba Agri-Mek 0.15EC Epi-mek 0.15 EC Paraspray 8-E"
+53,"d","",,"Zephyr 0.15 EC"
+53,"d","H","Acetochlor","Degree"
+53,"d","H","Alachlor","Bronco (4EC) Intrro (4E)"
+53,"d","I","Aldicarb","Temik 15G Temik TSX"
+53,"d","H","Atrazine","Atrazine 4L Extrazine II 4L"
+53,"d","I","Azinphos-methyl","Azinphos-M 2 EC Azinphos-M 50 WP Azinphosmethyl 50W"
+53,"d","",,"Guthion 2L Guthion 35% WP Guthion Solupak 50%"
+53,"d","I","Beta-cyfluthrin","Baythroid XL"
+53,"d","I","Bifenthrin","Bifenture EC Brigade 2EC Brigade WSB 10WP Capture 2EC"
+53,"d","",,"Discipline 2EC Fanfare 2EC Sniper Tundra EC"
+53,"d","I","Carbofuran","Furadan 4F"
+53,"d","I","Chlorpyrifos","Chlorpyrifos 4E AG Govern 4E Lock-On Lorsban 4E"
+53,"d","",,"Nufos 4E Pilot 4E-SG Warhawk Whirlwind Yuma 4E"
+53,"d","H","Cyanazine","Bladex 90DF Cy-Pro 4L Extrazine II 4L"
+53,"d","I","Cyfluthrin","Baythroid 2 (EC) Leverage 2.7 Tombstone"
+53,"d","I","Cypermethrin","Ammo 2.5 EC Battery 2.5 EC Cyper AG Holster"
+53,"d","",,"Tenkoz Cypermethrin Up-Cyde 2.5 EC"
+53,"d","I","Deltamethrin","Battalion 0.2EC Decis 1.5EC"
+53,"d","I","Diazinon","D-z-n Diazinon 50W Diazinon 4E Diazinon 50W KnoxOut NL"
+53,"d","O","Dichloropropene","Telone II"
+53,"d","I","Dicrotophos","Bidrin 8"
+53,"d","I","Diflubenzuron","Dimilin 2F"
+53,"d","I","Emamectin benzoate","Denim Proclaim"
+53,"d","I","Esfenvalerate","Asana Asana XL"
+53,"d","I","Ethion","Ethion 8 EC"
+53,"d","I","Ethyl parathion","Parathion 4L"
+53,"d","F","Etridiazole","Temik TSX Terraclor Super X 18.8G"
+53,"d","I","Fenbutatin-oxide","Vendex 50WP"
+53,"d","H","Fenoxaprop-p-ethyl","Silverado"
+53,"d","I","Flucythrinate","AAStar"
+53,"d","I","Gamma-cyhalothrin","Proaxis"
+53,"d","H","Glyphosate iso. salt","Bronco (4EC)"
+53,"d","I","Imidacloprid","Leverage 2.7"
+53,"d","I","Lambda-cyhalothrin","Karate (1EC) Karate Z Silencer Taiga Z Warrior"
+53,"d","I","Lindane","Lindane 20%EC"
+53,"d","I","Methamidophos","Monitor 4 Spray (For Cotton & Potatoes)"
+53,"d","I","Methidathion","Supracide 2E"
+53,"d","I","Methomyl","Lannate L (1.8 lbs.) Lannate LV (2.4 lbs.) Lannate SP"
+53,"d","I","Methyl parathion","Methyl Parathion 4EC Methyl Parathion 6EC"
+53,"d","I","Oxamyl","Vydate C-LV Vydate L"
+53,"d","F","PCNB","Temik TSX Terraclor Super X 18.8G"
+53,"d","H","Paraquat","Cyclone Firestorm Gramoxone Extra Gramoxone Inteon"
+53,"d","",,"Gramoxone Max Gramoxone Super Ortho Paraquat CL"
+53,"d","",,"Parazone 3SL Starfire (1.5L)"
+53,"d","I","Permethrin","Ambush Ambush 25W Perm-UP 3.2 EC Permethrin 3.2 AG"
+53,"d","",,"Pounce 25WP Pounce 3.2EC"
+53,"d","I","Phorate","AAStar Thimet 15-G Thimet 20-G"
+53,"d","H","Picloram K salt","Tordon 22K (2EC)"
+53,"c",""
+53,"c","--continued"
+54,"t","Agricultural Chemical Usage 2007 Restricted Use Summary: Released May 21, 2008, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, U.S. Department of Agriculture."
+54,"t","Pesticide Class, Common Names, and Trade Names"
+54,"t","Restricted Use Pesticides, 2007 - continued"
+54,"h","","",""
+54,"h","Class","Common Names","Trade Names"
+54,"h","","",""
+54,"d","I","Profenofos","Curacron 6E Curacron 8E"
+54,"d","H","Pronamide","Kerb 50WP Specicalty (Turf & Ornamental)"
+54,"d","O","Strychnine","Gopher Getter AG Bait"
+54,"d","I","Zeta-cypermethrin","Fury 1.5 EC Mustang Mustang Max"
+54,"d","O","Zinc phosphide","ZP Rodent Bait AG Zinc Phosphide Oat Bait"
+54,"c",""

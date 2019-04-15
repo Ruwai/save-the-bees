@@ -1,0 +1,28 @@
+57,"t","Agricultural Chemical Usage 2006 Restricted Use Summary: Released October 3, 2007, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, U.S. Department of Agriculture."
+57,"t","Broccoli:  Agricultural Chemical Applications,"
+57,"t","Restricted Use Pesticides,"
+57,"t","Program States, 2006 1/"
+57,"h","","","","","",""
+57,"h","Restricted Use","Area","Appli-","Rate per","Rate per","Total"
+57,"h","Pesticide","Applied","cations","Application","Crop Year","Applied"
+57,"h","","","","","",""
+57,"u","","Percent","Number","Pounds per Acre","Pounds per Acre","1,000 lbs"
+57,"d","",,,,,
+57,"d","Herbicides",,,,,
+57,"d","  Pronamide","*",1.0,1.196,1.200,0.2
+57,"d","",,,,,
+57,"d","Insecticides",,,,,
+57,"d","  Chlorpyrifos",8,1.1,0.955,1.024,11.0
+57,"d","  Diazinon",17,1.1,0.909,0.968,21.4
+57,"d","  Disulfoton",8,1.0,1.001,1.002,10.2
+57,"d","  Emamectin benzoate",17,1.0,0.010,0.010,0.2
+57,"d","  Esfenvalerate",19,1.1,0.038,0.044,1.1
+57,"d","  Gamma-cyhalothrin",1,1.1,0.015,0.016,"( 2/ )"
+57,"d","  Lambda-cyhalothrin",6,1.2,0.028,0.032,0.3
+57,"d","  Methomyl",3,1.0,0.828,0.854,3.6
+57,"d","  Permethrin",2,1.2,0.094,0.109,0.3
+57,"d","  Zeta-cypermethrin",14,1.1,0.042,0.047,0.8
+57,"c",""
+57,"f","*   Area applied is less than 0.5 percent."
+57,"f","1/  Planted acreage in 2006 for California was 128,500 acres."
+57,"f","2/  Total applied is less than 50 lbs."

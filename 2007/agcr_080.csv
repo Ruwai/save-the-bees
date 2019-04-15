@@ -1,0 +1,33 @@
+80,"t","Agricultural Chemical Usage 2006 Restricted Use Summary: Released October 3, 2007, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, U.S. Department of Agriculture."
+80,"t","Tomatoes, Fresh:  Agricultural Chemical Applications,"
+80,"t","Restricted Use Pesticides,"
+80,"t","Program States, 2006 1/"
+80,"h","","","","","",""
+80,"h","Restricted Use","Area","Appli-","Rate per","Rate per","Total"
+80,"h","Pesticide","Applied","cations","Application","Crop Year","Applied"
+80,"h","","","","","",""
+80,"u","","Percent","Number","Pounds per Acre","Pounds per Acre","1,000 lbs"
+80,"d","",,,,,
+80,"d","Herbicides",,,,,
+80,"d","  Paraquat",17,1.4,0.522,0.730,13.5
+80,"d","",,,,,
+80,"d","Insecticides",,,,,
+80,"d","  Abamectin",10,3.3,0.018,0.058,0.6
+80,"d","  Bifenthrin",28,5.5,0.064,0.352,10.2
+80,"d","  Cyfluthrin",13,3.3,0.036,0.120,1.7
+80,"d","  Diazinon",1,1.1,0.600,0.675,0.8
+80,"d","  Esfenvalerate",31,4.5,0.030,0.137,4.5
+80,"d","  Lambda-cyhalothrin",12,2.3,0.021,0.049,0.6
+80,"d","  Methamidophos",10,2.3,0.723,1.645,17.4
+80,"d","  Methomyl",10,8.5,0.476,4.045,42.9
+80,"d","  Methyl bromide",30,1.2,142.962,176.678,5642.9
+80,"d","  Oxamyl",16,2.1,0.429,0.884,15.0
+80,"d","  Permethrin",4,2.5,0.173,0.432,1.8
+80,"d","  Zeta-cypermethrin",6,1.5,0.042,0.063,0.4
+80,"d","",,,,,
+80,"d","Other Chemicals",,,,,
+80,"d","  Chloropicrin",25,1.3,66.651,86.180,2249.3
+80,"d","  Dichloropropene",1,1.1,61.960,69.302,58.4
+80,"c",""
+80,"f","1/  Planted  acreage in 2006 for the 7 Program States was 105,600 acres."
+80,"f","^ ^  States included are CA, FL, GA, NJ, NC, OH, and TN."

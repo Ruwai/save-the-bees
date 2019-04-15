@@ -1,0 +1,30 @@
+70,"t","Agricultural Chemical Usage 2006 Restricted Use Summary: Released October 3, 2007, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, U.S. Department of Agriculture."
+70,"t","Onions:  Agricultural Chemical Applications,"
+70,"t","Restricted Use Pesticides,"
+70,"t","Program States, 2006 1/"
+70,"h","","","","","",""
+70,"h","Restricted Use","Area","Appli-","Rate per","Rate per","Total"
+70,"h","Pesticide","Applied","cations","Application","Crop Year","Applied"
+70,"h","","","","","",""
+70,"u","","Percent","Number","Pounds per Acre","Pounds per Acre","1,000 lbs"
+70,"d","",,,,,
+70,"d","Insecticides",,,,,
+70,"d","  Chlorpyrifos",17,1.0,1.656,1.670,39.0
+70,"d","  Cypermethrin",3,2.4,0.102,0.249,1.0
+70,"d","  Diazinon",16,1.8,1.906,3.416,74.0
+70,"d","  Esfenvalerate","*",1.0,0.035,0.035,"( 2/ )"
+70,"d","  Lambda-cyhalothrin",34,2.3,0.026,0.058,2.7
+70,"d","  Methomyl",31,2.0,0.656,1.300,57.5
+70,"d","  Methyl parathion",11,2.0,0.418,0.830,13.3
+70,"d","  Oxamyl",13,3.0,0.476,1.449,25.8
+70,"d","  Permethrin",5,1.4,0.154,0.221,1.6
+70,"d","  Zeta-cypermethrin",24,2.1,0.042,0.089,3.0
+70,"d","",,,,,
+70,"d","Other Chemicals",,,,,
+70,"d","  Chloropicrin",6,1.0,32.452,32.844,277.2
+70,"d","  Dichloropropene",6,1.0,148.198,149.988,1276.9
+70,"c",""
+70,"f","*   Area applied is less than 0.5 percent."
+70,"f","1/  Planted  acreage in 2006 for the 7 Program States was 141,000 acres."
+70,"f","^ ^  States included are CA, GA, NY, OR, TX, WA, and WI."
+70,"f","2/  Total applied is less than 50 lbs."

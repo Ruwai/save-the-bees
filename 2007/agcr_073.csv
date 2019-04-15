@@ -1,0 +1,28 @@
+73,"t","Agricultural Chemical Usage 2006 Restricted Use Summary: Released October 3, 2007, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, U.S. Department of Agriculture."
+73,"t","Snap Beans, Fresh:  Agricultural Chemical Applications,"
+73,"t","Restricted Use Pesticides,"
+73,"t","Program States, 2006 1/"
+73,"h","","","","","",""
+73,"h","Restricted Use","Area","Appli-","Rate per","Rate per","Total"
+73,"h","Pesticide","Applied","cations","Application","Crop Year","Applied"
+73,"h","","","","","",""
+73,"u","","Percent","Number","Pounds per Acre","Pounds per Acre","1,000 lbs"
+73,"d","",,,,,
+73,"d","Herbicides",,,,,
+73,"d","  Paraquat",2,1.0,0.990,0.990,1.5
+73,"d","",,,,,
+73,"d","Insecticides",,,,,
+73,"d","  Bifenthrin",10,2.1,0.071,0.148,1.3
+73,"d","  Esfenvalerate",18,1.6,0.031,0.049,0.8
+73,"d","  Lambda-cyhalothrin","*",1.4,0.027,0.036,"( 2/ )"
+73,"d","  Methomyl",10,2.4,0.329,0.786,6.9
+73,"d","  Permethrin","*",1.1,0.095,0.101,"( 2/ )"
+73,"d","  Zeta-cypermethrin",3,1.0,0.023,0.024,0.1
+73,"d","",,,,,
+73,"d","Other Chemicals",,,,,
+73,"d","  Dichloropropene",5,1.0,86.830,86.830,409.2
+73,"c",""
+73,"f","*   Area applied is less than 0.5 percent."
+73,"f","1/  Planted  acreage in 2006 for the 6 Program States was 88,500 acres."
+73,"f","^ ^  States included are CA, FL, GA, NY, NC, and TN."
+73,"f","2/  Total applied is less than 50 lbs."

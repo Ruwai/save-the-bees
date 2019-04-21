@@ -6,3 +6,9 @@ class SaveTheBees(Cmd):
     '''
 
     def do_setup(self,keys):
+    	pass
+
+    def do_start(self, start):
+    	pass
+
+   	def do_

@@ -11,4 +11,5 @@ class SaveTheBees(Cmd):
     def do_start(self, start):
     	pass
 
-   	def do_
+   	def do_model(self, model):
+        pass

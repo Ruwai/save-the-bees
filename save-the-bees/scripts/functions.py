@@ -15,3 +15,4 @@ class F(object):
 
         mu = self.a + np.divide(((self.b - self.a)*self.p), (self.p+self.q))
         return mu
+

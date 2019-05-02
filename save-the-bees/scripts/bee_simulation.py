@@ -16,10 +16,18 @@ rint = np.random.randint
 choice = np.random.choice
 
 # simulation parameters
-
 SIM_TIME_YEARS = 100 #this will represent the next 100 years.
 SIM_TIME_MONTHS = 1200
+MONTHS_IN_YEAR = [1,2,3,4,5,6,7,8,9,10,11,12]
+WEEKS_IN_YEAR = list(range(1,53))
+
+# location variables
 STATES = ['CA']
 
 # Initialize the amount of bees in our colonies.
+
+
+# Initialize Climate Variables
+
+# Initialize Pesiticide Usage Variables
 

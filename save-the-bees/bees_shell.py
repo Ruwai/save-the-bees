@@ -13,3 +13,5 @@ class SaveTheBees(Cmd):
 
    	def do_model(self, model):
         pass
+    def make_probability(self,):
+        pass

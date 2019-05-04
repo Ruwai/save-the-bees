@@ -11,6 +11,7 @@
 import numpy as np
 import simpy
 import collections as col
+from math import erf, erfc, gamma, tau
 
 rint = np.random.randint
 choice = np.random.choice

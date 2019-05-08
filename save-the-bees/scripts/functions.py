@@ -1,5 +1,7 @@
 '''
 Use this script to store any functions that we will be using for our main script.
+Add probability density functions
+Follow the google doc
 '''
 
 import pandas as pd

@@ -14,7 +14,8 @@
 '''
 import numpy as np
 import simpy
-import collections as col
+import collections as coll
+import time
 from math import erf, erfc, gamma, tau
 
 rint = np.random.randint
@@ -28,11 +29,11 @@ MONTHS_IN_YEAR = [1,2,3,4,5,6,7,8,9,10,11,12]
 WEEKS_IN_YEAR = list(range(1,53))
 DAYS_IN_YEAR = list(range(1,366))
 
-
 # location variables
 STATES = ['CA']
 
-# Initialize the amount of bees in our colonies.
+# Initialize bee variables in our colony
+EGGLAY_RATE = 1500 # rate per day 
 
 
 # Initialize Climate Variables

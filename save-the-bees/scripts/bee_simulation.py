@@ -7,6 +7,10 @@
 	scripts directory that will not be routed to the main functionality of this
 	project.
 
+	The goal of this simulation is to build a log of bee simulations
+	Use Facebook Prophet to create another dataset with a log of the
+	"baseline" predictions in a dataset.
+	Train test split the dataset and train a new model.
 '''
 import numpy as np
 import simpy

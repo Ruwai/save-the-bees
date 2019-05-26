@@ -8,14 +8,47 @@ import pandas as pd
 import numpy as np
 import scipy.stats as stats
 
-class F(object):
+class AntophilaApis(object):
 
-    def __init__(self, mu):
-        self.mu = mu
+    def __init__(self, count=int, env, plane, growth_rate, energy):
+        '''
+        	Constructor Function
+        '''
+        self.count = int(count)
+        self.env = env
+        self.plane = plane
+        self.alive = True
+        self.causeOfDeath = None
+        self.energy = energy
 
-    def stnderr(self, a, b, p, q):
+    def isAlive(self):
+    	'''
+    		Check if Apis is alive.
+    	'''
+    	return self.alive
 
-        mu = self.a + np.divide(((self.b - self.a)*self.p), (self.p+self.q))
-        return mu
+    def die(self, cause):
+
+    	self.alive = False
+    	self.causeOfDeath = cause
+
+
+    def getCauseOfDeath(self):
+
+    	return self.causeOfDeath 
+
+class Worker(AntophilaApis):
+
+	def __init__(self, count=int, env, growth_rate, energy):
+		'''
+			Worker Bees exist here
+		'''
+
+	def job(self):
+		'''
+			Method that stores which job the bees are performing.
+		'''
+		if self.
+
 
 

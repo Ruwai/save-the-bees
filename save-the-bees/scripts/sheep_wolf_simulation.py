@@ -44,7 +44,7 @@ class Animal(object):
         # when did the animal ate the last
         self.lastTimeEaten = 0
 
-        # range of movements
+        # range of movementsg
         self.movements = [i for i in range(-50,51)]
 
         # pointer to environment and the plane
@@ -521,7 +521,7 @@ if __name__ == '__main__':
 
     # create the plane
     plane = Plane(env, LAND, GRASS_COVERAGE, 
-        INITIAL_SHEEP, INITIAL_WOLF)
+        INITIAL_SHEEP, INITIAL_WOLF)	
 
     # print the header
     print('\tSheep\t\tDied\t\tWolves\t\tDied\t')

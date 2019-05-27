@@ -13,12 +13,15 @@ rint = np.random.randint
 choice = np.random.choice
 
 # simulation parameters
+# each frame is 1.475 inches in width
+# each frame is 18.375 inches in length 
 HIVE_FRAMES = (10,10)
 NUM_CELLS = 6960
+FIELD = (1000,1000)
 POLLEN_COVERAGE = 0.25
 
 # energy parameters // subject to change
-
+ENERGY_FROM_POLLEN = [1,10]
 
 # initial number of bees
 INITIAL_WORKERS = 5000 
@@ -27,19 +30,19 @@ INITIAL_QUEENS = 1
 
 class AntophilaApis(object):
 
-    def __init__(self, env, plane, growth_rate, energy):
+    def __init__(self, env, plane, energy, pos):
         '''
         	Constructor Function
         '''
         self.env = env
         self.plane = plane
-        self.alive = True
-        self.causeOfDeath = None
         self.energy = energy
-     	self.movements = [i for i in range(-100,101)]
      	self.pos = pos
-     	self.stage = 
-
+     	self.stage = None
+     	self.movements = [i for i in range(-100,101)]
+     	self.alive = True
+        self.causeOfDeath = None
+        self.lastTimeFed = 0
 
     def move(self):
     	'''
@@ -78,29 +81,62 @@ class AntophilaApis(object):
 
     	return self.energy
 
+    def getEnv(self):
+
+    	return self.env
+
+    def getPlaneType(self):
+
+    	return self.plane
+
     def getPosition(self):
 
     	return self.pos
 
+    def getStage(self):
+    	'''
+    		Stage the bee is in.
+    	'''
+    	if self.stage == None:
+    		self.stage = 'Egg Stage'
+
+    	elif self.stage != None:
+    		print('Current stage : ',self.stage)
+
+    def updateStage(self, stage):
+    	'''
+    		Update stage.
+    	'''
+    	if self.stage == stage
+    		print('Stage is already set to : ', stage)
+
+    	else:
+    		self.stage = stage
+    		print('Bee has gone from {}, to stage : {} '.format(stage, self.stage))
+
 class Queen(AntophilaApis):
 
-	def __init__(self, env, plane, growth_rate, energy):
+	def __init__(self, env, plane, energy, pos):
 		'''
 			My Queen(s)
 		'''
-		AntophilaApis.__init__(self, env, plane, growth_rate, energy)
+		AntophilaApis.__init__(self, env, plane, energy, pos)
 
 	def brood(self):
-
+		'''
+			Set up brood rates
+		'''
+		for _ in range(self.):
+			pos_x = rint(0, )
 
 
 class Worker(AntophilaApis):
 
-	def __init__(self, env, plane, growth_rate, energy):
+	def __init__(self, env, plane, energy, pos):
 		'''
 			Worker Bees exist here
 		'''
-		AntophilaApis.__init__(self, env, plane, growth_rate, energy)
+		AntophilaApis.__init__(self, env, plane, energy, pos)
 
 	def job(self):
 		'''
@@ -114,6 +150,15 @@ class Worker(AntophilaApis):
 			Method for worker to pollenate
 		'''
 
+class Environment(object):
+
+	def __init__(self);
+
+class Plane(object):
+
+	def __init__(self);
+
+	
 
 
 
